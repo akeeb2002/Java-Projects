@@ -1,5 +1,3 @@
-//Name: Khandaker Hossain
-//Lab 11A-Li
 //This is a Java project that asks the user to enter a sentence then tells them how many upper and lower case "e" were in the sentence they previously entered.
 
 import javax.swing.JFrame;
