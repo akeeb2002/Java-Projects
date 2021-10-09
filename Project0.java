@@ -57,7 +57,6 @@ public class Project0 {
 				count++;
 			}
 		}
-		
 		return count;
 	}
 	
